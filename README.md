@@ -1,4 +1,4 @@
-# SLM (Small Language Model)
+# EuGPT -- a SLM (Small Language Model)
 
 A ~36M parameter GPT chatbot trained on the [TinyChat dataset](https://huggingface.co/datasets/starhopp3r/TinyChat), deployed as a full-stack ChatGPT-style [web app](https://eugpt.chat).
 
